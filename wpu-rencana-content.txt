@@ -6,3 +6,4 @@ RENCANA KONTEN WPU
 2. PHP FRAMEWORKS
 3. INTERVIEW
 4. VLOGS
+5. Fundamental data dasar
