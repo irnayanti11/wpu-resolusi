@@ -3,7 +3,10 @@ RENCANA KONTEN WPU
 1. JAVA SCRIPT 
   * ES6
   * Framework javascript
+   ^ angular
+   ^ react
 2. PHP FRAMEWORKS
+  * laravel
 3. INTERVIEW
 4. VLOGS
-5. Fundamental data dasar
+
