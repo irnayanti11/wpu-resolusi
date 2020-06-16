@@ -4,6 +4,7 @@ RENCANA KONTEN WPU
   * ES6
   * Framework javascript
    ^ vue
+   ^ react
 2. PHP FRAMEWORKS
   * laravel
 3. INTERVIEW
